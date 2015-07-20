@@ -1,0 +1,9 @@
+target
+tmp
+dist
+.history
+*.iml
+*.log
+**/bin
+**/.metadata
+**/.settings
